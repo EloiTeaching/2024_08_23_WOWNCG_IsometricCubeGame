@@ -1,0 +1,21 @@
+
+{                                                                                
+  "name": "be.elab.isometicgame",                              
+  "displayName": "Isometric Game Demo",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Small isometric game with player as cube.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree"},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiTeaching/2024_08_23_WOWNCG_FlappyCube.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
